@@ -1,18 +1,7 @@
-## Getting Started
-
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
-
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+aqui se encuentra una solucion breve de un análisis basaico de notas, usando los parametros descritos en el enunciado importando las librerias Array para la lista de notas  y scanner para leer entrada, luego haciendo uso de un ciclo do while se llama el menu y un switch para evaluar la opcion del usuario, y la lista de metodos.
+#Mostrar menú
+#Agtregar nota
+#Mostrar notas
+#Calcular promedio
+#Contar notas aprobadas
+#
