@@ -15,7 +15,7 @@ public class AnalisisNotas {
 
             switch (opcion) {
                 case 1:
-                    mostrarNotas(notas);
+                    agregarNota(sc,notas);
                     break;
                 case 2:
                     mostrarNotas(notas);
